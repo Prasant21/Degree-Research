@@ -1,0 +1,1 @@
+Drowsiness Monitoring Using Deep Learning and Electroencephalography, (Python, ML). A comprehensive framework utilizing EEG data and a CNN model for effective driver drowsiness detection, achieving a 74% accuracy and demonstrating potential for real-world implementation in enhancing road safety.
